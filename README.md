@@ -18,3 +18,4 @@ Programa sugeva sugeneruoti studentu sąrašus
 Programa sugeba paskirsyti studentus i 2 kategorijas, "Nuskriaustuosius", kurių galutinis pažymys < 5 ir "Kietekus", kurių galutinis pažymys >=5
 
 Programa taip pat gali atlikti spartos analizę
+![](Capture.JPG)
