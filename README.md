@@ -8,3 +8,7 @@ Naudotojas gali pasirinkti ar nori pazymius ir egzamino rezultata generuoti atsi
 Naudotojas gali pasirinkti ar nori pats įvesti duomenis ar nuskaityti duomenis is failo.
 
 Taip pat programa sugeba rikiuoti studentų duomenys pagal pasirinktą kriterijų.
+# ***v0.3***
+Programoje sukurti failai talpinti visas programos funkcijas.
+
+Panaudotas patikrinimas ar failas egzistuoja.
