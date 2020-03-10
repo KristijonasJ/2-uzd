@@ -12,3 +12,9 @@ Taip pat programa sugeba rikiuoti studentų duomenys pagal pasirinktą kriterij�
 Programoje sukurti failai talpinti visas programos funkcijas.
 
 Panaudotas patikrinimas ar failas egzistuoja.
+# ***v0.4***
+Programa sugeva sugeneruoti studentu sąrašus
+
+Programa sugeba paskirsyti studentus i 2 kategorijas, "Nuskriaustuosius", kurių galutinis pažymys < 5 ir "Kietekus", kurių galutinis pažymys >=5
+
+Programa taip pat gali atlikti spartos analizę
