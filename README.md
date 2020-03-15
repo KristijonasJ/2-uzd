@@ -4,4 +4,5 @@
 
 ![](LIST1.JPG) ![](LIST2.JPG) ![](LIST3.JPG)
 
+
 # ***Naudojant std::deque Studentai***
