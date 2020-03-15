@@ -8,4 +8,4 @@
 # ***Naudojant std::deque Studentai***
 ![](1LIST.JPG)
 
-![](2LIST.JPG)![](3LIST.JPG)![](4LIST.JPG)
+![](CPU.JPG)![](2LIST.JPG)![](3LIST.JPG)
