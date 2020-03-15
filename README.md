@@ -19,3 +19,4 @@ Programa sugeba paskirsyti studentus i 2 kategorijas, "Nuskriaustuosius", kurių
 
 Programa taip pat gali atlikti spartos analizę
 ![](Capture.JPG)
+# ***v0.5***
