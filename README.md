@@ -10,3 +10,9 @@ Programa geba suskaičiuoti galutini rezultatą pagal formulę "Galutinis = 0.4*
 # ***v0.2 versija:***
 1) Versijoje programa leidžia pasirinkti ar norima duomenis nuskaityti iš failo
 2) Taip pat programa sugeba rikiuoti studentų duomenys pagal pasirinktą kriterijų.
+# ***v0.3 versija:***
+1) Pridėta try/catch funkcija, kuri patikrina, ar failas, kurį nori nuskaityti, egzistuoja
+2) Programos funkcijų aprašymui sukurtas header ir cpp failas.
+Programą geriausia naudoti per Codeblocks atidarant cbp failą.
+# ***v0.4 versija:***
+1) Sukurta nauja funkcija leidžianti vartotojuj atlikti testavimą, spartos analizę (Sukuriant 1000, 10000, 100000, 1000000, 10000000 dydzžio failus)
