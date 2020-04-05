@@ -7,4 +7,6 @@ Programa geba suskaičiuoti galutini rezultatą pagal formulę "Galutinis = 0.4*
 3) Naudotojui leidžiama pasirinkti ar egzamino rezultatą sugeneruoti ar įvesti pačiam
 4) Naudotojui leidžiama pasirinkti ar galutini balą skaičiuoti su mediana ar vidurkiu
 5) Naudotojo paklausiama ar yra daugiau studentų.
-
+# ***v0.2 versija:***
+1) Versijoje programa leidžia pasirinkti ar norima duomenis nuskaityti iš failo
+2) Taip pat programa sugeba rikiuoti studentų duomenys pagal pasirinktą kriterijų.
