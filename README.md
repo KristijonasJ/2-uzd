@@ -20,4 +20,5 @@ Programą geriausia naudoti per Codeblocks atidarant cbp failą.
 # ***v0.5 versija:***
 Namu darbu pasirinktas kiekis: 5
 ![](/Vector/vector.JPG)
+![](/Photos/vector 0.5.JPG)
 
