@@ -28,4 +28,4 @@ Namu darbu pasirinktas kiekis: 5
 ![](/photos/List.JPG)
  
  # ***1.0 versija:***
-![](/Vector/Vector.JPG)
+![](/Vector/vector.JPG)
