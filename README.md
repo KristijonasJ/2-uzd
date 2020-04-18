@@ -26,4 +26,6 @@ Namu darbu pasirinktas kiekis: 5
 ![](/photos/Deque.JPG)
 # List
 ![](/photos/List.JPG)
-
+ 
+ # ***1.0 versija:***
+![](/Vector/Vector.JPG)
