@@ -32,3 +32,5 @@ Namu darbu pasirinktas kiekis: 5
 ![](/Vector/vector.JPG)
 # Deque
 ![](/Deque/deque.JPG)
+# List
+![](/List/list.JPG)
