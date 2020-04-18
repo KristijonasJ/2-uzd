@@ -19,5 +19,5 @@ Programą geriausia naudoti per Codeblocks atidarant cbp failą.
 2) Nuo šios versijos studentai yra padalinami į 2 grupes, tų kurių galutinis balas < 5 ("Kietakai") ir kurių galutinis balas < 5 (Vargšiukai)
 # ***v0.5 versija:***
 Namu darbu pasirinktas kiekis: 5
-![](/Photos/Vector.JPG)
+![](/photos/Vector.JPG)
 
