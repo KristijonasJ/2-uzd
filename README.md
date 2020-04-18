@@ -20,8 +20,6 @@ Programą geriausia naudoti per Codeblocks atidarant cbp failą.
 # ***v0.5 versija:***
 Namu darbu pasirinktas kiekis: 5
 
-Versijoje sąrasus spausdina į 2 naujus kintamuosius:
-
 # Vector
 ![](/photos/Vector.JPG)
 # Deque
