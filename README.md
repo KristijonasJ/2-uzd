@@ -22,6 +22,10 @@ Namu darbu pasirinktas kiekis: 5
 
 Versijoje sąrasus spausdina į 2 naujus kintamuosius:
 
-Vektorius
+# Vector
 ![](/photos/Vector.JPG)
+# Deque
+![](/photos/Deque.JPG)
+# List
+![](/photos/List.JPG)
 
