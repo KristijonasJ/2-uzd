@@ -35,3 +35,6 @@ Programos versijoje atliktas spartos testavimas su std::vector, std::deque, std:
 |   Skaitymas   |   0.0081365   |   0.0697041   |    0.585953   |    5.6079     |    56.0802    |
 |  Rušiavimas   |   0.0001577   |   0.0020361   |    0.0168702  |    0.179203   |    1.90676    |
 
+Testavimas kiekvienam konteineriui atliktas su tais pačiais 5 skirtingo dydžio failais.
+
+Rezultate matome, kad naudojant std::deque programos veikimo laikas pailgėja, tačiau naudojant std::list programos sparta padidėja ir veikimo laikas sumažėja.
