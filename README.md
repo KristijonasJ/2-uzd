@@ -37,4 +37,4 @@ Programos versijoje atliktas spartos testavimas su std::vector, std::deque, std:
 
 Testavimas kiekvienam konteineriui atliktas su tais pačiais 5 skirtingo dydžio failais.
 
-Rezultate matome, kad naudojant std::deque programos veikimo laikas pailgėja, tačiau naudojant std::list programos sparta padidėja ir veikimo laikas sumažėja.
+Rezultate matome, kad naudojant std::deque programos veikimo laikas pailgėja, tačiau naudojant std::list programos sparta padidėja ir veikimo laikas sumažėja. Nors naudojant std::list programos sparta padidėja, bet programos vygdymo metu reikalaujama daugiau RAM atminties.
