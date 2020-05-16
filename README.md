@@ -6,7 +6,7 @@ Programos versijoje atliktas spartos testavimas su std::vector, std::deque, std:
 
 |      CPU      |      RAM      |      SSD      |
 | ------------- | ------------- | ------------- |
-|   i7 7700K    | Corsair Vengance 16Gb 3200Mhz    |  MP500 120GB M.2 SSD   |
+|   i7 7700K 4.20Ghz   | Corsair Vengance 16Gb 3200Mhz    |  MP500 120GB M.2 SSD   |
 
 
 # ***Naudojant std::list Studentai***
