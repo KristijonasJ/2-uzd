@@ -5,6 +5,6 @@
 
 
 # ***Naudojant std::deque Studentai***
-![](1LIST.JPG)
+
 
 ![](CPU.JPG)![](2LIST.JPG)![](3LIST.JPG)
