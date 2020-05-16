@@ -1,5 +1,7 @@
 # ***v0.5***
 
+Programos versijoje atliktas spartos testavimas su std::vector, std::deque, std::list tipo konteineriais.
+
 |      CPU      |      RAM      |      SSD      |
 | ------------- | ------------- | ------------- |
 |   i7 7700K    | Corsair Vengance 16Gb    |  MP500 120GB M.2 SSD   |
