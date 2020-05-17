@@ -18,6 +18,7 @@ Programą geriausia naudoti per Codeblocks atidarant cbp failą.
 1) Sukurta nauja funkcija leidžianti vartotojuj atlikti testavimą, spartos analizę (Sukuriant 1000, 10000, 100000, 1000000, 10000000 dydžio failus)
 2) Nuo šios versijos studentai yra padalinami į 2 grupes, tų kurių galutinis balas < 5 ("Kietakai") ir kurių galutinis balas < 5 (Vargšiukai)
 # ***v0.5 versija:***
+# Pirmoji strategija
 Namu darbu pasirinktas kiekis: 5
 
 # Vector
