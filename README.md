@@ -40,6 +40,11 @@ Namu darbu pasirinktas kiekis: 5
 |   Skaitymas   |   0.0056877   |   0.0539884   |    0.548987   |    5.67447    |    55.231     |
 |  Rušiavimas   |   0.0001273   |   0.0013562   |    0.0154812  |    0.155869   |    1.58987    |
 
+Testavimas kiekvienam konteineriui atliktas su tais pačiais 5 skirtingo dydžio failais.
+
+Rezultate matome, kad naudojant std::deque programos veikimo laikas pailgėja, tačiau naudojant std::list programos sparta padidėja ir veikimo laikas sumažėja. 
+
+Nors naudojant std::list programos sparta padidėja, bet programos vygdymo metu reikalaujama daugiau RAM atminties.
  
  # ***1.0 versija:***
  # Vector
