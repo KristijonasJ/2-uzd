@@ -21,16 +21,16 @@ Programą geriausia naudoti per Codeblocks atidarant cbp failą.
 Namu darbu pasirinktas kiekis: 5
 
 # Vector
-![](/photos/Vector.JPG)
+
 # Deque
-![](/photos/Deque.JPG)
+
 # List
-![](/photos/List.JPG)
+
  
  # ***1.0 versija:***
  # Vector
-![](/Vector/vector.JPG)
+
 # Deque
-![](/Deque/deque.JPG)
+
 # List
-![](/List/list.JPG)
+
