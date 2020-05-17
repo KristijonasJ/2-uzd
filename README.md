@@ -48,6 +48,7 @@ Rezultate matome, kad naudojant std::deque programos veikimo laikas pailgėja, t
 Nors naudojant std::list programos sparta padidėja, bet programos vygdymo metu reikalaujama daugiau RAM atminties.
  
  # ***1.0 versija:***
+ # 2 strategija
  # Vector
 
 # Deque
