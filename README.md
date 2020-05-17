@@ -50,6 +50,7 @@ Nors naudojant std::list programos sparta padidėja, bet programos vygdymo metu 
  
  # ***1.0 versija:***
  # 2 strategija
+ ***Bendro studentų konteinerio (vector, list ir deque) skaidymas (rūšiavimas) panaudojant tik vieną naują konteinerį: "vargšiukai".***
  # Vector
 
 # Deque
