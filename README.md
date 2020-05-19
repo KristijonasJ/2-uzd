@@ -74,4 +74,4 @@ Nors naudojant std::list programos sparta padidėja, bet programos vygdymo metu 
 
 Naudojant std::vector konteinerį kompiuterio apkrova yra mažiausia, nors Studentų rūšiavimas atliekamas greičiausiai. 
 
-Matome kad naudojant std::list rūšiavimo laikas ženkliai padidėja, tačiau visų konteinerių skaitymo greitis yra šiek tiek greitesnis nei pirmos strategijos metu. Taip pat lyginant 2 strategiją su pirma matome, kad rūšiavimo laikas ypač std::list yra ženkliai padidėjas.
+Matome kad naudojant std::list rūšiavimo laikas ženkliai padidėja, tačiau visų konteinerių skaitymo greitis yra šiek tiek greitesnis nei pirmos strategijos metu. Taip pat lyginant antrą strategiją su pirma matome, kad rūšiavimo laikas ypač std::list yra ženkliai didesnis.
