@@ -53,6 +53,10 @@ Nors naudojant std::list programos sparta padidėja, bet programos vygdymo metu 
  ***Bendro studentų konteinerio (vector, list ir deque) skaidymas (rūšiavimas) panaudojant tik vieną naują konteinerį: "vargšiukai".***
  # Vector
  
+|               |     1000      |     10000     |     100000    |    1000000    |    10000000   |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|   Skaitymas   |   0.0056074   |   0.0731831   |    0.527237   |    5.39673    |    53.4879    |
+|  Rušiavimas   |   0.0001713   |   0.0021343   |    0.0180441  |    0.211963   |    2.06737    |
 
 # Deque
 
