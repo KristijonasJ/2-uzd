@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
-#include<limits>
+#include <limits>
 #include <vector>
+
 using std::cout;
 using std::cin;
 using std::endl;
@@ -14,16 +15,18 @@ using std::setw;
 using std::ifstream;
 using std::stringstream;
 using std::ofstream;
-struct pazymiai
+
+struct Pazymiai /// strukturos ir klases is didziosios
 {
     string vardas, pavarde;
     vector <int> pazymys={};
     double galutinis;
-    pazymiai()
+    Pazymiai()
     {
-        galutinis =0;
+        galutinis = 0;
     }
 };
+
 int countWords(string str)
 {
     // breaking input into word using string stream
@@ -35,55 +38,52 @@ int countWords(string str)
         count++;
     return count;
 }
-void Rikiuoti(vector <pazymiai> M, int n)
-{
-    for (int i = 0; i < n - 1; i++)
-        for (int j = i + 1; j < n; j++)
+void rikiuotiPagalVarda(vector <pazymiai> M, int vectorIlgis) /// Funkcijos pavadinimas prasideda iš mažosios raidės
+{                                                   /// Neaišku pagal pavadinimą, ką rikiuoja ir pagal ką rikiuoja
+    for (int i = 0; i < vectorIlgis - 1; i++)                     /// Iš pirmo žvilgsnio neaišku, kas yra int n
+        for (int j = i + 1; j < vectorIlgis; j++)
            if(M[i].vardas>M[j].vardas)
               swap(M[i],M[j]);
 }
-void Rikiuoti1(vector <pazymiai> M, int n)
+void rikiuotiPagalPavarde(vector <pazymiai> M, int vectorIlgis)
 {
-    for (int i = 0; i < n - 1; i++)
-        for (int j = i + 1; j < n; j++)
+    for (int i = 0; i < vectorIlgis - 1; i++)
+        for (int j = i + 1; j < vectorIlgis; j++)
            if(M[i].pavarde>M[j].pavarde)
               swap(M[i],M[j]);
 }
-int main()
-{
-    ofstream fr("kursiokai.txt");
-    vector <pazymiai> M;
-    int x=1, a=0;
-    char MV;
-    srand(time(NULL));
-    cout <<"Ar norite duomenis nuskaityt is failo?" << endl;
+bool NuskaitytiAtsakyma(){ // Perkelta is main i atskira funkcija
     string nuskaitymas, line, dummyline;
-    bool nuskaitymas2 = false;
     while(1)
     {
         cin >> nuskaitymas;
         if(nuskaitymas=="taip")
         {
-            nuskaitymas2=true;
-            break;
+            return true;
         }
         else if (nuskaitymas=="ne")
         {
-            nuskaitymas2=false;
-            break;
+            return false;
         }
         else {
             cin.clear();
-            cin.ignore(500, '\n');
+            cin.ignore(500, '\n'); //nera komentaro, kokia sios eilutes logika
             cout << "KLAIDA. Irasykite 'taip' arba 'ne' " << endl;
         }
     }
-    string failas;
-    if(nuskaitymas2==true)
-    {
-        cout << "Iveskite failo pavadinima" << endl;
-        cin >> failas;
-    }
+}
+int main()
+{
+    ofstream outputFile("kursiokai.txt"); //Neaiskus kintamojo pavadinimas
+    vector <pazymiai> mokiniuPazymiai; //Neaiskus kintamojo pavadinimas
+    int x=1, a=0; //Neaiskus kintamojo pavadinimas
+    char MV; //Neaiskus kintamojo pavadinimas
+    srand(time(NULL));
+    cout <<"Ar norite duomenis nuskaityt is failo?" << endl;
+    bool nuskaitymas;
+    nuskaitymas = NuskaitytiAtsakyma();
+    //kodo fragmento pabaiga, kodas tesiamas
+
     ifstream fd(failas);
     cout << "Jei galutini bala norite skauciuoti su mediana spauskite M, jei vidurkiu V " << endl;
     while(1)
